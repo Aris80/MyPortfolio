@@ -27,7 +27,8 @@ nav {
 nav.sticky   {
    position: fixed;
    width: 100%;
-   top: 0;   
+   top: 0;
+   
    
 }
 
@@ -61,7 +62,6 @@ nav ul li a  {
    display: flex;
    flex-direction: column;
    margin-left: 150px;
-   align-self: center;
 }
 
 #home h2 {
@@ -223,7 +223,7 @@ nav ul li a:hover {
       display: flex;
       order: 2;
       font-size: 30px;
-      margin-right: 275px;
+      margin-right: 205px;
 
    }
 

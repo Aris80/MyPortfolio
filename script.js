@@ -27,6 +27,6 @@ window.addEventListener('click', function (e) {
  });
 
 const scroll = new SmoothScroll('.navbar a[href*="#"]',{
-  speed: 550,
+  speed: 700,
   speedAsDuration: true
 });
